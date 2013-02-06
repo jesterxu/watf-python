@@ -1,0 +1,112 @@
+2013-01-17 10:53:42
+******************************************************************************
+
+The product to test:  Kace
+the version of product:  1101
+The tester do this test:  Jester
+
+******************************************************************************
+
+we are running the test case: test3
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test3 execution finished!
+
+we are running the test case: test1
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test1 execution finished!
+
+we are running the test case: test4
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test4 execution finished!
+
+******************************************************************************
+               Re-run the failed test cases.
+******************************************************************************
+
+
+we are running the test case: test3
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test3 execution finished!
+
+we are running the test case: test1
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test1 execution finished!
+
+we are running the test case: test4
+###################################################################
+
+setup
+test
+Message: u"Unable to find element with xpath == /html/body/div/div/div/div[3]/div[2]/table/tbody/tr/td/h3/a (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 340 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.28.0', revision: '18309', time: '2012-12-11 20:21:18'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_34'\nSession ID: 0d8e1594-6fd6-4497-9af2-7ef3dc07a6fc\nDriver info: org.openqa.selenium.ie.InternetExplorerDriver\nCapabilities [{platform=WINDOWS, javascriptEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserName=internet explorer, nativeEvents=true, takesScreenshot=true, version=9}]" ; Screenshot: available via screen ; Stacktrace: Method newInstance0 threw an error in None 
+exception exists in the test4 please check it again!
+
+
+The test case test4 execution finished!
+
+******************************************************************************
+               Re-run the failed test cases.
+******************************************************************************
+
+
+we are re-running the test case: test4
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test4 execution finished!
+
+we are running the test case: test3
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test3 execution finished!
+
+we are running the test case: test1
+###################################################################
+
+setup
+test
+Message: u"Unable to find element with xpath == /html/body/div/div/div/div[3]/div[2]/table/tbody/tr/td/h3/a (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 337 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.28.0', revision: '18309', time: '2012-12-11 20:21:18'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_34'\nSession ID: eaf2e747-a4eb-46c3-b769-bffbb16a97ac\nDriver info: org.openqa.selenium.ie.InternetExplorerDriver\nCapabilities [{platform=WINDOWS, javascriptEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserName=internet explorer, nativeEvents=true, takesScreenshot=true, version=9}]" ; Screenshot: available via screen ; Stacktrace: Method newInstance0 threw an error in None 
+exception exists in the test1 please check it again!
+
+
+The test case test1 execution finished!
+
+we are running the test case: 

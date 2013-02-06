@@ -1,0 +1,11 @@
+Product=Kace
+Version=1101
+testsuites=suite1
+
+Tester=Jester
+Email=jester.xu@welocalize.com
+Language=ENU
+
+
+hub=http://localhost:4444/wd/hub
+Navigator=ie

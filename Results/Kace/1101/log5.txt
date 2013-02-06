@@ -1,0 +1,49 @@
+2013-01-17 10:45:08
+******************************************************************************
+
+The product to test:  Kace
+the version of product:  1101
+The tester do this test:  Jester
+
+******************************************************************************
+
+we are running the test case: test3
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test3 execution finished!
+
+we are running the test case: test1
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test1 execution finished!
+
+we are running the test case: test4
+###################################################################
+
+setup
+test
+teardown
+
+
+The test case test4 execution finished!
+
+******************************************************************************
+               Re-run the failed test cases.
+******************************************************************************
+
+
+******************************************************************************
+All the test cases finished! Please check the report.
+******************************************************************************
+
+2013-01-17 10:45:44
